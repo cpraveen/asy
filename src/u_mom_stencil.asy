@@ -1,5 +1,4 @@
 size(200,200);
-import flowchart;
 
 pen pr = linewidth(2.5) + red;
 pen pb = linewidth(2.5) + blue;
