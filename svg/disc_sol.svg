@@ -41,13 +41,17 @@
 <g transform='translate(220.006 203.879)scale(.996264)'>
 <path d='M44.4187 30.7927H164.21' fill='none' stroke='#ff0000' stroke-linecap='round' stroke-linejoin='round' stroke-miterlimit='10.0375' stroke-width='2.0075'/>
 </g>
+<g fill='#f00'>
 <use x='250.13224' y='236.174025' xlink:href='#g1-117'/>
 <use x='256.79468' y='237.967288' xlink:href='#g0-108'/>
+</g>
 <g transform='translate(220.006 203.879)scale(.996264)'>
 <path d='M164.21 90.6882H284.001' fill='none' stroke='#ff0000' stroke-linecap='round' stroke-linejoin='round' stroke-miterlimit='10.0375' stroke-width='2.0075'/>
 </g>
+<g fill='#f00'>
 <use x='507.296916' y='295.845794' xlink:href='#g1-117'/>
 <use x='513.959356' y='297.639057' xlink:href='#g0-114'/>
+</g>
 <use x='221.505125' y='214.779386' xlink:href='#g2-73'/>
 <use x='225.728146' y='214.779386' xlink:href='#g2-110'/>
 <use x='232.231469' y='214.779386' xlink:href='#g2-105'/>

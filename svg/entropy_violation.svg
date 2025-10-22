@@ -92,11 +92,13 @@
 <g transform='translate(135.475 262.366)scale(.996264)'>
 <path d='M79.3623 209.29L174.296 19.4226' fill='none' stroke='#ff0000' stroke-linecap='round' stroke-linejoin='round' stroke-miterlimit='10.0375' stroke-width='2.0075'/>
 </g>
+<g fill='#f00'>
 <use x='302.755353' y='273.645065' xlink:href='#g0-120'/>
 <use x='312.72827' y='273.645065' xlink:href='#g2-61'/>
 <use x='326.349265' y='268.93794' xlink:href='#g1-49'/>
 <rect x='326.349265' y='270.457023' height='.398484' width='4.234183'/>
 <use x='326.349265' y='277.767682' xlink:href='#g1-50'/>
 <use x='331.778961' y='273.645065' xlink:href='#g0-116'/>
+</g>
 </g>
 </svg>

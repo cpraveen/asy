@@ -45,9 +45,12 @@
 <g transform='translate(71.8359 167.119)scale(.996264)'>
 <path d='M15.4843 38.0623H253.06' fill='none' stroke='#0000ff' stroke-dasharray='4.02671,4.02671' stroke-linecap='round' stroke-linejoin='round' stroke-miterlimit='10.0375' stroke-width='0.501875'/>
 </g>
+<g fill='#f00'>
 <use x='320.419764' y='289.063701' xlink:href='#g1-25'/>
 <use x='77.815689' y='208.830883' xlink:href='#g3-49'/>
 <use x='84.339641' y='291.620762' xlink:href='#g3-48'/>
+</g>
+<g fill='#00f'>
 <use x='182.324872' y='256.298311' xlink:href='#g1-34'/>
 <use x='187.802896' y='258.091574' xlink:href='#g0-100'/>
 <use x='195.979174' y='256.298311' xlink:href='#g3-61'/>
@@ -57,5 +60,6 @@
 <use x='221.408837' y='251.591186' xlink:href='#g0-119'/>
 <rect x='209.600169' y='253.110269' height='.398484' width='18.099972'/>
 <use x='215.504511' y='260.420928' xlink:href='#g0-119'/>
+</g>
 </g>
 </svg>

@@ -17,13 +17,17 @@
 <g transform='translate(148.465 159.563)scale(.996264)'>
 <path d='M.60225 197.9L184.199 14.3028' fill='none' stroke='#ff0000' stroke-linecap='round' stroke-linejoin='round' stroke-miterlimit='10.0375' stroke-width='1.2045'/>
 </g>
+<g fill='#f00'>
 <use x='334.770794' y='169.168049' xlink:href='#g1-86'/>
 <use x='341.595144' y='170.961312' xlink:href='#g0-104'/>
+</g>
 <g transform='translate(148.465 159.563)scale(.996264)'>
 <circle cx='138.3' cy='60.202' fill='#000000' r='1.25469'/>
 </g>
+<g fill='#f00'>
 <use x='288.795587' y='227.171316' xlink:href='#g1-117'/>
 <use x='295.458027' y='228.964579' xlink:href='#g0-104'/>
+</g>
 <g transform='translate(148.465 159.563)scale(.996264)'>
 <path d='M138.3 60.202L115.35 37.2524' fill='none' stroke='#000000' stroke-dasharray='3.60618,3.60618' stroke-linecap='round' stroke-linejoin='round' stroke-miterlimit='10.0375' stroke-width='0.501875'/>
 </g>
