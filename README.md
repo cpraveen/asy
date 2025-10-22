@@ -159,6 +159,8 @@
 ![svg/tri_p2.svg](svg/tri_p2.svg)   
 [src/u_mom_stencil.asy](src/u_mom_stencil.asy)   
 ![svg/u_mom_stencil.svg](svg/u_mom_stencil.svg)   
+[src/uvp_grid.asy](src/uvp_grid.asy)   
+![svg/uvp_grid.svg](svg/uvp_grid.svg)   
 [src/uvp_stag.asy](src/uvp_stag.asy)   
 ![svg/uvp_stag.svg](svg/uvp_stag.svg)   
 [src/weak_sol.asy](src/weak_sol.asy)   
