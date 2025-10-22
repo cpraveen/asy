@@ -13,7 +13,7 @@ pen axis  = linewidth(0.8);
 int ni = 7;
 int nj = 4;
 real dx = (xmax-xmin)/(ni-1);
-real cfl = 1.5;
+real cfl= 0.5;
 real dy = cfl*(ymax-ymin)/(nj-1);
 
 pen pg = blue;
@@ -55,7 +55,6 @@ dot((xj,yj));
 
 // advection speed
 real a = 1.0;
-
 real xf = xj - a*dy;
 real yf = yj - dy;
 dot((xf,yf),magenta);
@@ -66,8 +65,10 @@ draw((xj,yj)--(xf,yf),red);
 label("$f$", (xf,yf), S);
 //label("$C$", (xj,yj-dy), SE);
 
+//label("$x_f - x_{i-1} = \Delta x - \bar{u} \Delta t$", (xmax+dx,ymin+2*dy), E);
+//label("$x_i - x_f = \bar{u}\Delta t$", (xmax+dx,ymin+1*dy), E);
+
 label("$\Delta x$", (xmin+2.5*dx,ymin+3*dy), N);
 label("$\Delta t$", (xmin+6.0*dx,ymin+1.5*dy), E);
-
 draw((xmin+2*dx,ymin+3*dy)--(xmin+3*dx,ymin+3*dy), Arrows);
 draw((xmin+6*dx,ymin+dy)--(xmin+6*dx,ymin+2*dy), Arrows);

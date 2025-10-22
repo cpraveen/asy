@@ -38,7 +38,7 @@ for(int j=0; j<nj-1; ++j){
    dot(g);
 }
 
-draw( Label("$j$",EndPoint), (xmin,-dy)--(xmin+3*dx,-dy), Arrow);
+draw( Label("$i$",EndPoint), (xmin,-dy)--(xmin+3*dx,-dy), Arrow);
 draw( Label("$n$",EndPoint), (xmin-dx,dy)--(xmin-dx,4*dy), Arrow);
 
 real x1 = xmin + 10*dx;

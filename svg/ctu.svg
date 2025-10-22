@@ -9,13 +9,13 @@
 <path d='M27.8084 273.317H118.83V182.295H27.8084V273.317Z' fill='none' stroke='#000000' stroke-linecap='round' stroke-linejoin='round' stroke-miterlimit='10.0375' stroke-width='0.501875'/>
 </g>
 <g transform='translate(147.591 253.608)scale(.996264)'>
-<path d='M27.8084 182.295H118.83V91.2728H27.8084V182.295Z' fill='#ffff00'/>
+<path d='M27.8084 182.295H118.83V91.2728H27.8084V182.295Z' fill='#0000ff'/>
 </g>
 <g transform='translate(147.591 253.608)scale(.996264)'>
 <path d='M27.8084 182.295H118.83V91.2728H27.8084V182.295Z' fill='none' stroke='#000000' stroke-linecap='round' stroke-linejoin='round' stroke-miterlimit='10.0375' stroke-width='0.501875'/>
 </g>
 <g transform='translate(147.591 253.608)scale(.996264)'>
-<path d='M27.8084 91.2728H118.83V.250937H27.8084V91.2728Z' fill='#ff8000'/>
+<path d='M27.8084 91.2728H118.83V.250937H27.8084V91.2728Z' fill='#808080'/>
 </g>
 <g transform='translate(147.591 253.608)scale(.996264)'>
 <path d='M27.8084 91.2728H118.83V.250937H27.8084V91.2728Z' fill='none' stroke='#000000' stroke-linecap='round' stroke-linejoin='round' stroke-miterlimit='10.0375' stroke-width='0.501875'/>
@@ -27,31 +27,31 @@
 <path d='M118.83 273.317H209.852V182.295H118.83V273.317Z' fill='none' stroke='#000000' stroke-linecap='round' stroke-linejoin='round' stroke-miterlimit='10.0375' stroke-width='0.501875'/>
 </g>
 <g transform='translate(147.591 253.608)scale(.996264)'>
-<path d='M118.83 182.295H209.852V91.2728H118.83V182.295Z' fill='#00ff00'/>
+<path d='M118.83 182.295H209.852V91.2728H118.83V182.295Z' fill='#ff8000'/>
 </g>
 <g transform='translate(147.591 253.608)scale(.996264)'>
 <path d='M118.83 182.295H209.852V91.2728H118.83V182.295Z' fill='none' stroke='#000000' stroke-linecap='round' stroke-linejoin='round' stroke-miterlimit='10.0375' stroke-width='0.501875'/>
 </g>
 <g transform='translate(147.591 253.608)scale(.996264)'>
-<path d='M118.83 91.2728H209.852V.250937H118.83V91.2728Z' fill='#808080'/>
+<path d='M118.83 91.2728H209.852V.250937H118.83V91.2728Z' fill='#00ff00'/>
 </g>
 <g transform='translate(147.591 253.608)scale(.996264)'>
 <path d='M118.83 91.2728H209.852V.250937H118.83V91.2728Z' fill='none' stroke='#000000' stroke-linecap='round' stroke-linejoin='round' stroke-miterlimit='10.0375' stroke-width='0.501875'/>
 </g>
 <g transform='translate(147.591 253.608)scale(.996264)'>
-<path d='M209.852 273.317H300.874V182.295H209.852V273.317Z' fill='#0000ff'/>
+<path d='M209.852 273.317H300.874V182.295H209.852V273.317Z' fill='#ffff00'/>
 </g>
 <g transform='translate(147.591 253.608)scale(.996264)'>
 <path d='M209.852 273.317H300.874V182.295H209.852V273.317Z' fill='none' stroke='#000000' stroke-linecap='round' stroke-linejoin='round' stroke-miterlimit='10.0375' stroke-width='0.501875'/>
 </g>
 <g transform='translate(147.591 253.608)scale(.996264)'>
-<path d='M209.852 182.295H300.874V91.2728H209.852V182.295Z' fill='#ffc0ff'/>
+<path d='M209.852 182.295H300.874V91.2728H209.852V182.295Z' fill='#00ffff'/>
 </g>
 <g transform='translate(147.591 253.608)scale(.996264)'>
 <path d='M209.852 182.295H300.874V91.2728H209.852V182.295Z' fill='none' stroke='#000000' stroke-linecap='round' stroke-linejoin='round' stroke-miterlimit='10.0375' stroke-width='0.501875'/>
 </g>
 <g transform='translate(147.591 253.608)scale(.996264)'>
-<path d='M209.852 91.2728H300.874V.250937H209.852V91.2728Z' fill='#00ffff'/>
+<path d='M209.852 91.2728H300.874V.250937H209.852V91.2728Z' fill='#ffc0ff'/>
 </g>
 <g transform='translate(147.591 253.608)scale(.996264)'>
 <path d='M209.852 91.2728H300.874V.250937H209.852V91.2728Z' fill='none' stroke='#000000' stroke-linecap='round' stroke-linejoin='round' stroke-miterlimit='10.0375' stroke-width='0.501875'/>
@@ -79,6 +79,9 @@
 </g>
 <g transform='translate(147.591 253.608)scale(.996264)'>
 <path d='M.501875 18.4553H273.567' fill='none' stroke='#000000' stroke-linecap='round' stroke-linejoin='round' stroke-miterlimit='10.0375' stroke-width='1.00375'/>
+</g>
+<g transform='translate(147.591 253.608)scale(.996264)'>
+<path d='M91.5237 200.499H182.546V109.477H91.5237V200.499Z' fill='none' stroke='#ffffff' stroke-linecap='round' stroke-linejoin='round' stroke-miterlimit='10.0375' stroke-width='2.0075'/>
 </g>
 </g>
 </svg>
