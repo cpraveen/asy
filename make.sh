@@ -3,7 +3,7 @@ IMG=( `ls -1 fig/*.png` )
 IMG=( `ls -1 svg/*.svg` )
 FILE=README.md
 
-echo "# ASY examples" > $FILE
+echo "# Asymptote examples" > $FILE
 
 #for png in $PNG
 #do

@@ -1,4 +1,4 @@
-# ASY examples
+# Asymptote examples
 [src/1d_2d_grid.asy](src/1d_2d_grid.asy)   
 ![svg/1d_2d_grid.svg](svg/1d_2d_grid.svg)   
 [src/1d_grid.asy](src/1d_grid.asy)   
